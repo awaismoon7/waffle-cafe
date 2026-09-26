@@ -9,7 +9,7 @@ export default function Home() {
         </p>
 
         <h1 className="text-5xl font-bold text-amber-950">
-          Waffle Café
+          Waffle Café love
         </h1>
 
         <p className="mt-6 max-w-xl text-lg text-gray-700">
